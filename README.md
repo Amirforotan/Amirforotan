@@ -1,5 +1,5 @@
-## <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png" width="25" style="color: white"/> About Me
-
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/laptop-coding.png" width="25"/> About Me
+ 
 I’m a Full-Stack Developer passionate about **Networking, Systems, and Security**.
 
 I enjoy building scalable web applications and exploring how software connects with real-world network and system infrastructures.
