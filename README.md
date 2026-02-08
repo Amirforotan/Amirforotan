@@ -1,4 +1,4 @@
-## <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png" width="25"/> About Me
+## <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png" width="25" style="color: white"/> About Me
 
 I’m a Full-Stack Developer passionate about **Networking, Systems, and Security**.
 
