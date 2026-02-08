@@ -8,10 +8,7 @@ I enjoy building scalable web applications and exploring how software connects w
  Currently learning: Front-end, Back-end, Networking, Linux, Security  
 
 ##  Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,html,css,react,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
 
 💬 Ask me about:  
 Python • Django • JavaScript • TypeScript • HTML • CSS • React • Git • Linux  
