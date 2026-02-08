@@ -1,5 +1,4 @@
-## <img src="https://skillicons.dev/icons?i=github" height="40" />
- About Me
+## <img src="https://skillicons.dev/icons?i=developer" height="40" /> About Me
 
 I’m a Full-Stack Developer passionate about **Networking, Systems, and Security**.
 
