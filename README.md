@@ -4,10 +4,10 @@ I’m a Full-Stack Developer passionate about **Networking, Systems, and Securit
 
 I enjoy building scalable web applications and exploring how software connects with real-world network and system infrastructures.
 
-🔭 Currently working on: My own startup project  
-🌱 Currently learning: Front-end, Back-end, Networking, Linux, Security  
+ Currently working on: My own startup project  
+ Currently learning: Front-end, Back-end, Networking, Linux, Security  
 
-## 🚀 Skills
+##  Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,js,ts,html,css,react,bootstrap" />
