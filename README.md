@@ -11,6 +11,6 @@ I enjoy building scalable web applications and exploring how software connects w
 <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 
 💬 Ask me about:  
-Python • Django • JavaScript • TypeScript • HTML • CSS • React  
+Python • Django • JavaScript • HTML • CSS • React  
 
 I’m always interested in learning new technologies, collaborating, and building real-world solutions.
