@@ -1,42 +1,43 @@
-##  Hi, I'm Amir Mohammad Khodadad
+## 👋 Hi, I'm Amir Mohammad Khodadad
 
 💻 Full-Stack Developer  
-🌐 System-Oriented Engineer  
+🌐 System-Aware Engineer  
 
-I build web applications with a strong focus on clean architecture, performance, and real-world system integration.
+I build scalable web applications with a strong focus on clean architecture, performance, and maintainable code.
 
-My approach to development goes beyond writing features — I care about how software behaves inside networks, how it communicates with infrastructure, and how it performs in production environments.
-
----
-
-##  What I Work On
-
-- Internal company tools  
-- System-aware web applications  
-- Network-connected front-end & back-end solutions  
+My goal is not just to write code — but to design systems that are structured, efficient, and production-ready.
 
 ---
 
-##  Engineering Focus
+## 🚀 What I Build
 
-- Clean and maintainable code  
-- Performance optimization  
-- Backend logic design  
-- Front-end to infrastructure integration  
-- LAN-based system architecture  
-- Secure internal network communication  
+- E-commerce websites with complete store functionality  
+  (Product management, authentication, cart, order processing, admin panels)
+- Internal company tools
+- Custom web applications tailored to business needs
 
 ---
 
-##  Real-World Experience
+## 🧠 Engineering Focus
 
-- Connecting Front-End applications to internal network infrastructure  
-- Fetching data from internal network pages  
-- Working with internal DNS configuration  
-- Setting DNS records on routers  
-- Managing LAN access control  
-- Deploying projects (XAMPP + MySQL + Domain configuration)  
-- Handling real deployment & server-side challenges  
+- Clean and structured code
+- Performance optimization
+- Backend logic & API design
+- Scalable application architecture
+- Secure authentication & access control
+- Real-world deployment readiness
+
+---
+
+## 🔧 Development Experience
+
+- Designing and implementing full-stack applications  
+- Building REST-based backends with Django  
+- Developing dynamic front-end interfaces with React  
+- Connecting front-end to backend APIs  
+- Handling authentication and user role management  
+- Database design and query optimization  
+- Deploying applications (XAMPP, MySQL, domain configuration)  
 
 ---
 
@@ -45,20 +46,20 @@ My approach to development goes beyond writing features — I care about how sof
 <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 
 **Core Strengths:**  
-JavaScript • React • Python • Django • Networking Concepts  
+JavaScript • React • Python • Django • Application Architecture  
 
 ---
 
-##  Direction
+## 🎯 Direction
 
-Focused on becoming a Senior Developer and building scalable products with strong system foundations.
+Focused on becoming a Senior Developer and building strong, scalable products.
 
 Interested in:
-- Product building  
+- Product development  
 - Problem solving  
-- Systems & infrastructure  
+- Systems & architecture  
 - Security-aware development  
-- Deep technical research  
+- Deep technical learning  
 
 ---
 
@@ -66,4 +67,4 @@ Interested in:
 
 I think in systems.  
 I build with structure.  
-I care about how things work — not just that they work.
+I care about how software is designed — not just how it runs.
