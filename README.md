@@ -1,51 +1,16 @@
-## 👋 Hi, I'm Amir Mohammad Khodadad
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/laptop-coding.png" width="25"/> About Me
+ 
+I’m a Full-Stack Developer passionate about **Networking, Systems, and Security**.
 
-💻 Full-Stack Developer | 🌐 Networking & Systems Enthusiast | 🔐 Security-Oriented Thinker  
+I enjoy building scalable web applications and exploring how software connects with real-world network and system infrastructures.
 
-I build scalable web applications with a strong understanding of how software interacts with real-world network and system infrastructures.
+ Currently working on: My own startup project  
+ Currently learning: Front-end, Back-end, Networking, Linux, Security  
 
-My focus is not only writing code — but building reliable, maintainable, and production-ready systems.
+##  Skills
+<img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 
----
+💬 Ask me about:  
+Python • Django • JavaScript • HTML • CSS • React  
 
-## 🚀 What I’m Working On
-- 🏗 Building my own startup project  
-- ⚙️ Designing system-aware web applications  
-- 🔍 Exploring DevOps & infrastructure concepts  
-
----
-
-## 🧠 Currently Learning
-- Advanced Backend Architecture  
-- Linux & Server Management  
-- Networking Fundamentals  
-- Security Best Practices  
-
----
-
-## 🛠 Tech Stack
-
-### Front-End
-JavaScript • React • HTML • CSS  
-
-### Back-End
-Python • Django  
-
-### Systems & Tools
-Git • Linux • Basic Networking  
-
----
-
-## 🎯 Areas of Interest
-- Web Application Architecture  
-- Network-based System Design  
-- Secure Application Development  
-- Automation & Deployment  
-
----
-
-## 🤝 Let's Connect
-I’m open to collaboration, technical discussions, and building impactful products.
-
-📫 Telegram: @ifrotan  
-🌍 GitHub: Amirforotan
+I’m always interested in learning new technologies, collaborating, and building real-world solutions.
