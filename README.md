@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Amir Mohammad Khodadad
+##  Hi, I'm Amir Mohammad Khodadad
 
 💻 Full-Stack Developer  
 🌐 System-Oriented Engineer  
@@ -9,7 +9,7 @@ My approach to development goes beyond writing features — I care about how sof
 
 ---
 
-## 🚀 What I Work On
+##  What I Work On
 
 - Internal company tools  
 - System-aware web applications  
@@ -17,7 +17,7 @@ My approach to development goes beyond writing features — I care about how sof
 
 ---
 
-## 🧠 Engineering Focus
+##  Engineering Focus
 
 - Clean and maintainable code  
 - Performance optimization  
@@ -28,7 +28,7 @@ My approach to development goes beyond writing features — I care about how sof
 
 ---
 
-## 🔧 Real-World Experience
+##  Real-World Experience
 
 - Connecting Front-End applications to internal network infrastructure  
 - Fetching data from internal network pages  
@@ -49,7 +49,7 @@ JavaScript • React • Python • Django • Networking Concepts
 
 ---
 
-## 🎯 Direction
+##  Direction
 
 Focused on becoming a Senior Developer and building scalable products with strong system foundations.
 
