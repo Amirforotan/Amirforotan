@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Amir Mohammad Khodadad
+## Hi, I'm Amir Mohammad Khodadad
 
 💻 Full-Stack Developer  
 🌐 System-Aware Engineer  
@@ -9,7 +9,7 @@ My goal is not just to write code — but to design systems that are structured,
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - E-commerce websites with complete store functionality  
   (Product management, authentication, cart, order processing, admin panels)
@@ -18,7 +18,7 @@ My goal is not just to write code — but to design systems that are structured,
 
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 - Clean and structured code
 - Performance optimization
@@ -29,7 +29,7 @@ My goal is not just to write code — but to design systems that are structured,
 
 ---
 
-## 🔧 Development Experience
+## Development Experience
 
 - Designing and implementing full-stack applications  
 - Building REST-based backends with Django  
@@ -50,7 +50,7 @@ JavaScript • React • Python • Django • Application Architecture
 
 ---
 
-## 🎯 Direction
+## Direction
 
 Focused on becoming a Senior Developer and building strong, scalable products.
 
