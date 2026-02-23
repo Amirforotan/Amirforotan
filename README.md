@@ -42,12 +42,7 @@ My approach to development goes beyond writing features — I care about how sof
 
 ## 🛠 Skills
 
-<img src="https://skillicons.dev/icons?i=javascript" /> 
-<img src="https://skillicons.dev/icons?i=html" /> 
-<img src="https://skillicons.dev/icons?i=css" /> 
-<img src="https://skillicons.dev/icons?i=react" /> 
-<img src="https://skillicons.dev/icons?i=python" /> 
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 
 **Core Strengths:**  
 JavaScript • React • Python • Django • Networking Concepts  
