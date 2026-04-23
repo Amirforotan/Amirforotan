@@ -46,7 +46,7 @@ My goal is not just to write code — but to design systems that are structured,
 <img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 
 **Core Strengths:**  
-JavaScript • React • Python • Django • Application Architecture  
+TypeScript • React • NextJs • Python • Django 
 
 ---
 
