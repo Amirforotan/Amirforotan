@@ -1,100 +1,111 @@
 # Amir Mohammad Khodadad
 
-Full‑Stack Developer • System‑Oriented Engineer
+Frontend Developer • React / Next.js Specialist  
++ Strong Backend Understanding (Python / Django)
 
-I build scalable web applications with a strong focus on architecture, performance, and maintainable code.
-
-My goal is not just writing features — but designing systems that remain stable, readable, and production‑ready as they grow.
-
----
-
-## Engineering Focus
-
-• Clean architecture and structured codebases  
-• Backend systems and API design  
-• Performance‑aware development  
-• Secure authentication and access control  
-• Scalable application structure  
-• Building production‑ready software
+I craft fast, clean, and scalable front‑end applications with a strong attention to UI/UX, performance, and maintainable architecture.  
+While my main focus is Frontend Engineering, my backend knowledge helps me build systems that are consistent, reliable, and production‑ready.
 
 ---
 
-## Tech Stack
+## 🎯 Frontend Focus
 
-Frontend  
-TypeScript • React • Next.js • TailwindCSS
-
-Backend  
-Python • Django • REST API Development
-
-Database  
-MySQL • Relational Data Modeling • Query Optimization
-
-Tools & Environment  
-Git • Linux • XAMPP • Deployment & Domain Configuration
+• Building modern, responsive interfaces  
+• Creating clean, scalable component architecture  
+• Performance‑focused development  
+• Pixel‑perfect UI implementation  
+• State management & complex frontend logic  
+• Real‑world application behavior & best practices
 
 ---
 
-## What I Build
+## 🛠 Tech Stack
 
-• Full e‑commerce platforms  
-  Product management, authentication, carts, orders, dashboards
+**Frontend (Main Focus)**  
+• TypeScript  
+• React  
+• Next.js  
+• TailwindCSS  
+• UI/UX & Component Design
 
-• Internal company systems  
-  Tools that automate workflows and simplify operations
+**Backend (Supporting Skill)**  
+• Python  
+• Django  
+• REST API integration
 
-• Custom business applications  
-  Tailored software built around real operational needs
-
----
-
-## Selected Skills
-
-- Full‑stack web architecture
-- REST API design
-- Authentication systems
-- Role‑based access control
-- Scalable project structure
-- Database schema design
-- Production‑focused development
+**Tools & Environment**  
+• Git & GitHub  
+• Linux  
+• Versel / Netlify deployment  
+• XAMPP • MySQL
 
 ---
 
-## Development Philosophy
+## 🚀 What I Build
 
-I approach software as systems, not isolated files.
-
-Good software is not just functional — it is structured, understandable, and able to grow without collapsing under its own complexity.
-
----
-
-## Current Direction
-
-Focused on:
-
-• Advanced backend engineering  
-• System architecture  
-• Security‑aware development  
-• Building real products and scalable platforms
+• Modern front-end applications using React & Next.js  
+• Reusable component systems  
+• Responsive layouts with Tailwind  
+• Dashboard interfaces  
+• API‑connected UIs  
+• Clean & scalable front-end architecture
 
 ---
 
-## Tools I Work With
+## 🧠 Core Strengths
 
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,django,mysql,git,linux" />
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirforotan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirforotan&layout=compact&theme=transparent)
+- Strong command of TypeScript & modern React patterns  
+- Next.js routing, SSR/SSG, optimization strategies  
+- Clean UI implementation  
+- Component-driven architecture  
+- API integration & state management  
+- Strong sense of system design for frontend apps  
+- Able to collaborate with backend efficiently
 
 ---
 
-## Connect
+## 📌 Development Philosophy
 
-GitHub is where I build and experiment with real systems.
+I believe front-end is not only about UI —  
+it's about creating systems that are elegant, predictable, and easy to scale.
 
-More projects and systems will appear here over time.
+Good front-end engineering means:
+
+• readable code  
+• reusable components  
+• predictable behavior  
+• performance & accessibility  
+• thoughtful architecture
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirforotan&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirforotan&layout=compact&theme=github_dark)
+
+---
+
+## ⚡ Current Direction
+
+Focused on becoming a **Front-end Engineer with deep system understanding**, mastering:
+
+• Advanced React patterns  
+• Next.js full-stack features  
+• UI performance optimization  
+• Design systems  
+• Scalable front-end architecture
+
+---
+
+## 🧰 Tools I Use
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,django,mysql,git,linux,vscode" />
+
+---
+
+## 📬 Connect
+
+GitHub is where I build, learn, and push myself through real projects.  
+More front-end focused projects will be added consistently.
