@@ -1,70 +1,100 @@
-## Hi, I'm Amir Mohammad Khodadad
+# Amir Mohammad Khodadad
 
-💻 Full-Stack Developer  
-🌐 System-Aware Engineer  
+Full‑Stack Developer • System‑Oriented Engineer
 
-I build scalable web applications with a strong focus on clean architecture, performance, and maintainable code.
+I build scalable web applications with a strong focus on architecture, performance, and maintainable code.
 
-My goal is not just to write code — but to design systems that are structured, efficient, and production-ready.
-
----
-
-## What I Build
-
-- E-commerce websites with complete store functionality  
-  (Product management, authentication, cart, order processing, admin panels)
-- Internal company tools
-- Custom web applications tailored to business needs
+My goal is not just writing features — but designing systems that remain stable, readable, and production‑ready as they grow.
 
 ---
 
 ## Engineering Focus
 
-- Clean and structured code
-- Performance optimization
-- Backend logic & API design
-- Scalable application architecture
-- Secure authentication & access control
-- Real-world deployment readiness
+• Clean architecture and structured codebases  
+• Backend systems and API design  
+• Performance‑aware development  
+• Secure authentication and access control  
+• Scalable application structure  
+• Building production‑ready software
 
 ---
 
-## Development Experience
+## Tech Stack
 
-- Designing and implementing full-stack applications  
-- Building REST-based backends with Django  
-- Developing dynamic front-end interfaces with React  
-- Connecting front-end to backend APIs  
-- Handling authentication and user role management  
-- Database design and query optimization  
-- Deploying applications (XAMPP, MySQL, domain configuration)  
+Frontend  
+TypeScript • React • Next.js • TailwindCSS
 
----
+Backend  
+Python • Django • REST API Development
 
-## 🛠 Skills
+Database  
+MySQL • Relational Data Modeling • Query Optimization
 
-<img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
-
-**Core Strengths:**  
-TypeScript • React • NextJs • Python • Django 
+Tools & Environment  
+Git • Linux • XAMPP • Deployment & Domain Configuration
 
 ---
 
-## Direction
+## What I Build
 
-Focused on becoming a Senior Developer and building strong, scalable products.
+• Full e‑commerce platforms  
+  Product management, authentication, carts, orders, dashboards
 
-Interested in:
-- Product development  
-- Problem solving  
-- Systems & architecture  
-- Security-aware development  
-- Deep technical learning  
+• Internal company systems  
+  Tools that automate workflows and simplify operations
+
+• Custom business applications  
+  Tailored software built around real operational needs
 
 ---
 
-## 🤝 Mindset
+## Selected Skills
 
-I think in systems.  
-I build with structure.  
-I care about how software is designed — not just how it runs.
+- Full‑stack web architecture
+- REST API design
+- Authentication systems
+- Role‑based access control
+- Scalable project structure
+- Database schema design
+- Production‑focused development
+
+---
+
+## Development Philosophy
+
+I approach software as systems, not isolated files.
+
+Good software is not just functional — it is structured, understandable, and able to grow without collapsing under its own complexity.
+
+---
+
+## Current Direction
+
+Focused on:
+
+• Advanced backend engineering  
+• System architecture  
+• Security‑aware development  
+• Building real products and scalable platforms
+
+---
+
+## Tools I Work With
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,django,mysql,git,linux" />
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirforotan&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirforotan&layout=compact&theme=transparent)
+
+---
+
+## Connect
+
+GitHub is where I build and experiment with real systems.
+
+More projects and systems will appear here over time.
