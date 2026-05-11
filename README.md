@@ -79,14 +79,6 @@ Good front-end engineering means:
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirforotan&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirforotan&layout=compact&theme=github_dark)
-
----
-
 ## ⚡ Current Direction
 
 Focused on becoming a **Front-end Engineer with deep system understanding**, mastering:
